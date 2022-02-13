@@ -18,7 +18,7 @@ function Modal({ label, children }) {
       <div className={classes.content}>{children}</div>
       <div className={classes.actions}>
         <button className={classes.button} onClick={toggle}>
-          OK, je vais être patient...
+          Tres bien, merci
         </button>
       </div>
     </div>
