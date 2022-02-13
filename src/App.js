@@ -1,4 +1,3 @@
-src/App.js
 import { lazy, Suspense } from "react";
 import { isWithinInterval } from "date-fns";
 

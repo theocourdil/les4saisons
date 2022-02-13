@@ -1,3 +1,4 @@
+import React from "react";
 import { formatDistanceToNowStrict } from "date-fns";
 
 import "./style/Season.css";
