@@ -1,0 +1,37 @@
+.Modal-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 16px;
+    background-color: #fefae0;
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+  }
+  
+  .Modal-content {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .Modal-actions {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .Modal-button {
+    border: none;
+    border-radius: 10px;
+    padding: 6px 12px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #023e8a;
+    color: white;
+  }
